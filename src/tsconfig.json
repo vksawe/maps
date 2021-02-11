@@ -1,0 +1,6 @@
+{
+    "types": ["google"],
+    "compilerOptions": {
+      "allowSyntheticDefaultImports": true
+   }
+  }
